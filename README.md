@@ -39,6 +39,7 @@ Summary visualizations and findings:
 Results of Linear Regression Model:
 
  The mean absolute error is:  32650.376443557805 
+ 
  The r-squared score is  0.47353054488788193
  
  
