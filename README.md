@@ -2,7 +2,7 @@
 
 This project delves into a data set of job postings in the data science industry. My goal with this project was to uncover insights about factors that impact salaries in this industry, which I achieved by exploring relationships between experience levels, company size, and job titles using Python. 
 
-The first portion of this project is an exploratory data analysis (EDA) supplemented by data visualizations, and the second portion consists of a predictive linear regression model, created in an attempt to predict salary based off of categorical variables given in the data set.
+The first portion of this project is an exploratory data analysis (EDA) supplemented by data visualizations, and the second portion focuses on machine learning and consists of a linear regression model and a decision tree model, created in an attempt to predict salary based off of categorical variables given in the data set.
 
 Summary visualizations and findings:
 
