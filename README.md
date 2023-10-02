@@ -43,3 +43,5 @@ Summary visualizations and findings:
  The r-squared score is  0.47353054488788193
  
  
+## Results of Decision Tree: 
+Mean squared error (encoded): 0.5304567537
